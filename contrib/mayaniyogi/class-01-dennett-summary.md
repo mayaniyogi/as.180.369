@@ -1,1 +1,11 @@
+# Reaction to Dennett Article
 
+- themes are important, especially with deep fake videos
+- recall that there was a politician whose career was ruined since her instagram stories/posts were modified and made pornographic
+- have scam calls where voices are mimicked and then used to scam people out of money
+- that being said, while there is a large need for AI moderation, a lot of the article seems to be strong feelings and not much persuading
+- info= outdated, how do we control spiralling algorithms? in the US, AI wasn't even covered in constitution (argument used for many protections), therefore find it believe federal laws of large regulation will happen in time
+
+Daniel C. Dennett's "The Problem with Counterfeit People" provides a compelling call for Artificial Intelligence (AI) moderation, but being released in 2023 contains outdated cases. While reading this article, I found myself agreeing with many of the themes and cases, especially in light of stories currently in the news. I recalled a news story about a New York politician whose Instagram stories and posts were morphed with the help of AI into pornographic versions, thus ruining her political career. Additionally, the cases in the article reminded me of a warning my parents gave me about scam calls that record your voice. These callers then go on to use your voice (fed through AI) to call other contacts in your phone feigning a call for help or money.
+
+AI started as a powerful tool for collating large amounts of knowledge and providing accessibility, but the tools are being sharpened to become weapons. While I agree that a moderation tool is required to mitigate the dangers of AI, the article's suggestion of watermarks seems like an inadequate in the face of the current AI problems. Regulation of money (where the parallel for a watermark was drawn) works because "pure" money originates from the government--a singular source. In comparison, AI tools seem to multiply by the day, meaning that compliance will be more difficult to maintain. Furthermore, limiting the sources
