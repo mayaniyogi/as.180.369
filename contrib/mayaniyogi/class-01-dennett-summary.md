@@ -1,10 +1,10 @@
 # Reaction to Dennett Article
 
-- themes are important, especially with deep fake videos
-- recall that there was a politician whose career was ruined since her instagram stories/posts were modified and made pornographic
-- have scam calls where voices are mimicked and then used to scam people out of money
-- that being said, while there is a large need for AI moderation, a lot of the article seems to be strong feelings and not much persuading
-- info= outdated, how do we control spiralling algorithms? in the US, AI wasn't even covered in constitution (argument used for many protections), therefore find it believe federal laws of large regulation will happen in time
+<!-- - themes are important, especially with deep fake videos -->
+<!-- - recall that there was a politician whose career was ruined since her instagram stories/posts were modified and made pornographic -->
+<!-- - have scam calls where voices are mimicked and then used to scam people out of money -->
+<!-- - that being said, while there is a large need for AI moderation, a lot of the article seems to be strong feelings and not much persuading -->
+<!-- - info= outdated, how do we control spiralling algorithms? in the US, AI wasn't even covered in constitution (argument used for many % protections), therefore find it believe federal laws of large regulation will happen in time -->
 
 Daniel C. Dennett's "The Problem with Counterfeit People" provides a compelling call for Artificial Intelligence (AI) moderation, but contains outdated cases due to its publication in 2023. While reading this article, I found myself agreeing with many of the themes and cases, especially in light of stories currently in the news. However, I recalled a news story about a New York politician whose Instagram stories and posts were morphed with the help of AI into pornographic versions, thus ruining her political career. Additionally, the cases in the article reminded me of a warning my parents gave me about scam calls that record your voice. These callers then go on to use your voice (fed through AI) to call other contacts in your phone feigning a call for help or money. While these are cases from the top of my head, I strongly believe that the article's main idea of AI moderation can be strengthened by including more relevant case studies of concern, especially since AI has evolved since May 2023. 
 
@@ -14,7 +14,7 @@ The article provides a very interesting solution to AI proliferation and misuse:
 
 Reading this article coincided with the news breaking about South Korea's "deepfake crisis", where their law enforcement and government are now working together to control deepfake technology abuse. This is due to the serious uptick in deepfake-related sexual harrassment cases filed within the country--many of which targeted teenagers and young adults. Telegram--a popular and free chatting platform--is now also facing serious allegations due to many of these crimes taking place thereupon. As such, it is obvious that AI has a tool for evil has only grown worse and serious regulation is required, more than what Dennett proposes. I am unsure of how adequate regulation could be structured in a proactive way, but I hope South Korea shows the world what must be done.
 
-
+In conclusion, I agree with the sentiments from Daniel C. Dennett's "The Problem with Counterfeit People", but I believe that the argument could be strengthened in light of more recent AI-assisted abuses, especially those assisted via deepfake technology. AI is a tool that can both help and harm us, and I believe that more regulation must exist to safely utilize it. This regulation could also include creating barriers to entry in addition to the watermarking idea that Dennett touches upon in his article. His article is very persuasive from an early-2023 perspective, but our AI-related problems today have outpaced his 2023-based solutions.
 
 
 
