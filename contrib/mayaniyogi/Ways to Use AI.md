@@ -1,4 +1,5 @@
-# Potential Ways to Use AI in Project Development
+# Potential Ways to Use AI in Economic Research
+## Summary of Anton Korinek's "Generative AI for Economic Research: Use Cases and Implications for Economists"
 
 <!--- ### Ideas: parts of project: idea creation, paper writing, proofreading paper, code developing, analysis --->
 
