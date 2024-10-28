@@ -1,5 +1,5 @@
 # Potential Ways to Use AI in Economic Research
-## Summary of Anton Korinek's [https://www.newyorkfed.org/medialibrary/media/research/conference/2023/FinTech/400pm_Korinek_Paper_LLMs_final.pdf?sc_lang=en&hash=81479B118CD523A654A4EBCECA1BF4A1]("Generative AI for Economic Research: Use Cases and Implications for Economists")
+## Summary of Anton Korinek's ["Generative AI for Economic Research: Use Cases and Implications for Economists"](https://www.newyorkfed.org/medialibrary/media/research/conference/2023/FinTech/400pm_Korinek_Paper_LLMs_final.pdf?sc_lang=en&hash=81479B118CD523A654A4EBCECA1BF4A1)
 
 <!--- ### Ideas: parts of project: idea creation, paper writing, proofreading paper, code developing, analysis --->
 
