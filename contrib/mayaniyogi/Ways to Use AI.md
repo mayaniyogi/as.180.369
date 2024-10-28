@@ -1,16 +1,16 @@
 # Potential Ways to Use AI in Project Development
 
-%### Ideas: parts of project: idea creation, paper writing, proofreading paper, code developing, analysis
+<!--- ### Ideas: parts of project: idea creation, paper writing, proofreading paper, code developing, analysis --->
 
-%### idea creation: finding data sets, understanding potential pitfalls in idea, finding resources to help get ideas, workshopping based off of papers you upload to AI platform
+<!--- ### idea creation: finding data sets, understanding potential pitfalls in idea, finding resources to help get ideas, workshopping based off of papers you upload to AI platform --->
 
-%### paper writing: helping create an outline for paper
+<!--- %### paper writing: helping create an outline for paper --->
 
-%### proofreading paper: synthesis, translation into different language, writing precision, reworking structure
+<!--- %### proofreading paper: synthesis, translation into different language, writing precision, reworking structure --->
 
-%### code development: can help interpret errors, can fix code, can provide alternative packages or methods for completing a task
+<!--- %### code development: can help interpret errors, can fix code, can provide alternative packages or methods for completing a task --->
 
-%### analysis: can help interpret results, if there are potential convoluting results, can help determine
+<!--- %### analysis: can help interpret results, if there are potential convoluting results, can help determine --->
 
 Generative AI is becoming a transformative tool in economic research, offering new efficiencies and expanding the scope of what economists can achieve. The paper suggests a few main areas where large language models (LLMs) like ChatGPT can streamline and support researchers’ work: generating ideas and feedback, writing assistance, conducting background research, data analysis, coding, and mathematical problem-solving.
 
