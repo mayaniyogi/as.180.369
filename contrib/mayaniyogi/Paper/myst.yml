@@ -1,0 +1,18 @@
+version: 1
+site:
+  template: article-theme
+  title: Maya Niyogi - Research Paper
+  subtitle: This is just a template
+  short_title: template
+  authors:
+    - name: Maya Niyogi
+project:
+  title: Research Paper
+  authors:
+    - name: Maya Niyogi
+  bibliography:
+    - References_MNiyogi.bib
+  exports:
+  - format: pdf
+    template: arxiv_nips
+    output: Paper_Restructured.pdf
