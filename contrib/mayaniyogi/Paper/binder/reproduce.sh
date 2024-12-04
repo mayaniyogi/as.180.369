@@ -12,7 +12,7 @@ case $input in
     esac
 
 # Activate environment
-conda activate ./econ_ark
+conda activate econ_ark
     
 # Run the Jupyter notebook and execute all cells in place
 python -m ipykernel install --user --name econark
