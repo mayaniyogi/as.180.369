@@ -16,8 +16,8 @@ conda activate econ_ark
     
 # Run the Jupyter notebook and execute all cells in place
 python -m ipykernel install --user --name econark
-jupyter nbconvert --to notebook --execute --inplace ../Working_notebook.ipynb
-jupyter nbconvert --to notebook --execute --inplace ../Paper_MNiyogi.ipynb
+jupyter nbconvert --to notebook --execute --inplace ./Working_notebook.ipynb
+jupyter nbconvert --to notebook --execute --inplace ./Paper_MNiyogi.ipynb
 
 # Build the PDF using myst
 myst build --pdf
