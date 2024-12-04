@@ -1,5 +1,5 @@
 format: jb-book
 root: Paper_MNiyogi
 chapters:
-  - file: Paper_Mniyogi  # Your main paper file
+  - file: Paper_MNiyogi  # Your main paper file
   - file: Bibliography_MNiyogi  # Your bibliography file
