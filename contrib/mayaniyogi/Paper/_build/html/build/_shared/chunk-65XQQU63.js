@@ -1,0 +1,1 @@
+import{c as e}from"/dockervm24/ed921311-9af1-11ef-8c58-5254001d4703/proxy/3000/build/_shared/chunk-2NH4LW52.js";var i=e((r,a)=>{a.exports=s;s.displayName="hsts";s.aliases=[];function s(t){t.languages.hsts={directive:{pattern:/\b(?:includeSubDomains|max-age|preload)(?=[\s;=]|$)/i,alias:"property"},operator:/=/,punctuation:/;/}}});export{i as a};

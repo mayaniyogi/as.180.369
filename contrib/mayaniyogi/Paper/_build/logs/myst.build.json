@@ -1,0 +1,42 @@
+{
+  "input": {
+    "files": [],
+    "opts": {
+      "execute": false,
+      "pdf": true,
+      "tex": false,
+      "typst": false,
+      "docx": false,
+      "md": false,
+      "xml": false,
+      "meca": false,
+      "cff": false,
+      "site": false,
+      "html": false,
+      "all": false,
+      "doiBib": false,
+      "watch": false,
+      "force": false,
+      "checkLinks": false,
+      "strict": false,
+      "ci": false,
+      "maxSizeWebp": 1572864
+    }
+  },
+  "exports": [
+    {
+      "format": "pdf",
+      "template": "arxiv_nips",
+      "output": "/home/idies/workspace/Temporary/mniyogi1/scratch/as.180.369_with_conflicts/contrib/mayaniyogi/Paper/Paper_Restructured.pdf",
+      "articles": [
+        {
+          "file": "/home/idies/workspace/Temporary/mniyogi1/scratch/as.180.369_with_conflicts/contrib/mayaniyogi/Paper/Bibliography_MNiyogi.ipynb",
+          "level": 0,
+          "slug": "bibliography-mniyogi"
+        }
+      ],
+      "$file": "/home/idies/workspace/Temporary/mniyogi1/scratch/as.180.369_with_conflicts/contrib/mayaniyogi/Paper/myst.yml",
+      "$project": "/home/idies/workspace/Temporary/mniyogi1/scratch/as.180.369_with_conflicts/contrib/mayaniyogi/Paper"
+    }
+  ]
+}
